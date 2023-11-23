@@ -1,4 +1,4 @@
-# Lane-Detection-System-with-Augmented-Reality-Alerts
+# Lane-Detection-System-with-AR-Alerts
 This project utilizes OpenCV to Develop[Lane departure Warning System](https://en.wikipedia.org/wiki/Lane_departure_warning_system) and [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality) warning. Initially, it extracts three common road colors (red, yellow, white) using OpenCV's HSV range setting. After optimizing the image through morphological operations to enhance edge contours, it draws a Region of Interest (ROI) to reduce false positives. Subsequently, Hough Transform is employed to recognize and draw road lines. The project evaluates whether the centroid of the contours exceeds a predefined safety threshold. If it does, the system triggers a warning by cropping a PNG format image and displaying it prominently in a fixed location.
 
 ## OpenCV

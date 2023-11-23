@@ -4,30 +4,6 @@ This project utilizes OpenCV to Develop[Lane departure Warning System](https://e
 ## OpenCV
 [OpenCV](https://opencv.org/) OpenCV, or Open Source Computer Vision Library, is an open-source computer vision and machine learning software library. It provides a comprehensive set of tools and functions designed to facilitate real-time computer vision applications. OpenCV is widely used in various domains, including image and video processing, object detection and recognition, machine learning, and robotics.
 
-
-## Steps to run Code
-### Create Virtual Environment
-* Create a virtual environment using Anaconda.
-
-	conda create --name lane_detector python=3.8 -y
-
-* Download the required packages.
-
-        pip install opencv-python 
-
-* Clone the repository
-  
-        git clone https://github.com/KennyChen880127/Lane-Detection-System-with-Augmented-Reality-Alerts-Code.git
-
-* Goto cloned folder
-  
-        cd Lane_Detector
-
-### Predicting
-* Use the following command to predict.
-
-        python lane_detector.py
-  
 ### Results
 | Detect a red line. | Detect a yellow line. | Detect a white line. |
 | ------------- | ------------- | ------------- |

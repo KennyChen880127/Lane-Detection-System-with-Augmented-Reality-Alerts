@@ -7,4 +7,4 @@ This project utilizes OpenCV to Develop[Lane departure Warning System](https://e
 ### Results
 | Detect a red line. | Detect a yellow line. | Detect a white line. |
 | ------------- | ------------- | ------------- |
-| ![red](https://github.com/KennyChen880127/Lane-Detection-System-with-Augmented-Reality-Alerts-Code/assets/99500847/9e32e872-bb11-4e89-9f1a-1f6d3aeec322) | ![yellow](https://github.com/KennyChen880127/Lane-Detection-System-with-Augmented-Reality-Alerts-Code/assets/99500847/833653bb-32d8-4006-a994-276a792ff33c) | ![white](https://github.com/KennyChen880127/Lane-Detection-System-with-Augmented-Reality-Alerts-Code/assets/99500847/bd6400f5-9e34-41b9-b906-b07681abbbe1) |
+| ![image](https://github.com/KennyChen880127/Lane-Detection-System-with-AR-Alerts/blob/main/example_1.png) | ![image](https://github.com/KennyChen880127/Lane-Detection-System-with-AR-Alerts/blob/main/example_2.png) | ![image](https://github.com/KennyChen880127/Lane-Detection-System-with-AR-Alerts/blob/main/example_3.png) |

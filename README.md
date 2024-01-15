@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
 <b>
-Lane Detection System with Augmented Reality Alerts
+MLP Corrected Distance Estimation for Non Horizontal Camera Measurements
 </b>
 </h1>
 </div>
